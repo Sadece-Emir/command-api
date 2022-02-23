@@ -10,6 +10,7 @@ All usages in tr/elite/usage/Main.java.
 
 ## Developed By
 **Sadece Emir**
+FOLLOW ME EVERYWHERE: 
 [Instagram](https://www.instagram.com/sadece.emir0/)
 [Youtube](https://www.youtube.com/channel/UC6IvUFue9GxZdcnE9oYdtbQ)
 [Twitter](https://twitter.com/SadeceEmir0)
