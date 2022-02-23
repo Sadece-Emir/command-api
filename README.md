@@ -4,13 +4,13 @@
 All usages in tr/elite/usage/Main.java.
 
 ## Addinations
--Command Executor for create a new custom command.
--Command class for register or run any command.
+-Command Executor for create a new custom command. <br></br>
+-Command class for register or run any command. <br></br>
 -Command Not Found Exception which occurs if the executed command is not found.
 
 ## Developed By
-**Sadece Emir**
-FOLLOW ME EVERYWHERE: 
-[Instagram](https://www.instagram.com/sadece.emir0/)
-[Youtube](https://www.youtube.com/channel/UC6IvUFue9GxZdcnE9oYdtbQ)
-[Twitter](https://twitter.com/SadeceEmir0)
+**Sadece Emir** <br></br>
+FOLLOW ME EVERYWHERE:  <br></br>
+[Instagram](https://www.instagram.com/sadece.emir0/) <br></br>
+[Youtube](https://www.youtube.com/channel/UC6IvUFue9GxZdcnE9oYdtbQ) <br></br>
+[Twitter](https://twitter.com/SadeceEmir0) <br></br>
