@@ -1,7 +1,7 @@
 # Command API
 
 ## Usage
-All usages in tr/elite/usage/Main.java.
+All usages are in tr/elite/usage/Main.java.
 
 ## Addinations
 -Command Executor for create a new custom command. <br></br>
